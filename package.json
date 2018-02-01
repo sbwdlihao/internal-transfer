@@ -1,0 +1,23 @@
+{
+  "name": "internal-transfer",
+  "version": "1.0.0",
+  "description": "eth internal transfer example",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eth",
+    "internal",
+    "transfer"
+  ],
+  "author": "sbwdlihao",
+  "license": "ISC"
+}
